@@ -1,0 +1,10 @@
+#operadores aritimeticos +, -, *, /, //, **, %, ()
+
+print('Multiplicação *', 10*10)
+print('Adição +', 10+10)
+print('Subtração -', 10-5)
+print('Divisão /', 10/5)
+print('Divisão //', 10//5)
+print('Potenciação **', 2 ** 5)
+print('Modulo %', 10 % 3)
+print('Precedencia ()', (10+2)*3)
